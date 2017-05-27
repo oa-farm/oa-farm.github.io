@@ -1,4 +1,11 @@
-# How to Make Compost Tea
+---
+layout: post
+title:  "How to Make Compost Tea!"
+date:   2017-05-07 18:30:00
+categories: Composting
+---
+
+How to Make Compost Tea
 
 ### Gather the brewing supplies.
 Before you start brewing your compost tea, you'll need a few supplies. You can find commercial products to help you do the job, or you can make your own system. All you need is a 10-gallon bucket and an aquarium pump. The most important things, of course, are good quality compost, a water source, aeration and some compost catalyst for good measure.
