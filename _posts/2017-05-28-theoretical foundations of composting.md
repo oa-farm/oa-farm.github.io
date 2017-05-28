@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Quá trình ủ phân compost"
+date:   2017-05-28 11:30:00
+categories: Composting
+---
 ### Composting process
 Một trong những vấn đề môi trường của các hoạt động canh tác là rác thải hữu cơ từ việc cắt tỉa, thu hoạch, xử lý sau thu hoạch, phân, cỏ, ... Thông thường, do thiếu không gian, hoặc thời gian, để xử lý các loại rác thải này nông dân thường chọn đốt bỏ, chôn lấp hoặc bỏ đi.
 Việc ủ phân compost là một cách an toàn để chuyển rác thải hữu cơ thành các sản phẩm nông nghiệp.FAO định nghĩa composting là hỗn hợp chất hữu cơ được phân giải trong môi trường hiếu khí (giàu oxy), hỗn hợp đó được dùng để tăng cường cấu trúc của đất và cung cấp các chất dinh dưỡng (FAO
