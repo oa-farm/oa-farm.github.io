@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Nước mầm cây 'Sprouted Seed Tea'"
+title:  "Nước mầm cây Sprouted Seed Tea"
 date:   2017-06-29 23:15:00
-categories: Organic Fertilizers
+categories: "Organic Fertilizers"
 ---
-### Nước mầm cây "Sprouted Seed Tea"
+
 Sprouted Seed Tea (SST) cung cấp các amino acid, enzyme, hormone và rất nhiều các hợp chất có lợi khác cho cây trồng. Các loại mầm thường được sử dụng bao gồm:
 * Mầm lúa mạch (barley), đây là một loại mầm chứa rất nhiều amino acid.
 * Mầm hạt bắp (corn), chứa nhiều cytokinin là một dạng kích thích sinh trưởng cho cầy trồng giúp cây trồng có thân (stem) cứng cáp hơn;
