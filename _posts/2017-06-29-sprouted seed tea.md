@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ước mầm cây "Sprouted Seed Tea"
+title:  "Nước mầm cây 'Sprouted Seed Tea'"
 date:   2017-06-29 23:15:00
 categories: Organic Fertilizers
 ---
