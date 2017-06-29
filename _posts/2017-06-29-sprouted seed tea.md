@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Quá trình ủ phân compost"
-date:   2017-05-28 11:30:00
+title:  "ước mầm cây "Sprouted Seed Tea"
+date:   2017-06-29 23:15:00
 categories: Organic Fertilizers
 ---
 ### Nước mầm cây "Sprouted Seed Tea"
