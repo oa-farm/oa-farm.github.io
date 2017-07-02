@@ -9,4 +9,4 @@ Aquaponics là một hệ thống kết hợp giữa nuôi trồng thủy sản 
 
 ![aquaponics](http://i.imgur.com/QqPXLLI.png)
 
-# Thủy canh (hydroponics)
+### Thủy canh (hydroponics)
