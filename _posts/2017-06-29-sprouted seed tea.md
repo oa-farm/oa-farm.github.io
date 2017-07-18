@@ -2,7 +2,7 @@
 layout: post
 title:  "Nước mầm cây Sprouted Seed Tea"
 date:   2017-06-29 23:15:00
-categories: Organic Fertilizers
+categories: "Organic Fertilizers"
 ---
 
 Sprouted Seed Tea (SST) cung cấp các amino acid, enzyme, hormone và rất nhiều các hợp chất có lợi khác cho cây trồng. Các loại mầm thường được sử dụng bao gồm:
