@@ -1,7 +1,10 @@
 <!DOCTYPE html>
-<html>    
+<html>
+  <head>
   {% include head.html %}
-
+  {% seo %}
+  </head>
+  
   <body>
     {% include header.html %}
     <br>
@@ -10,9 +13,9 @@
         {{ content }}
       </div>
     </div>
-    
+
     {% include footer.html %}
-    
+
   </body>
 
 </html>

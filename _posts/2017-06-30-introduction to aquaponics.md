@@ -2,7 +2,7 @@
 layout: post
 title:  "Tổng quan về aquaponics"
 date:   2017-06-30 21:20:00
-categories: Aquaponics
+categories: "Aquaponics"
 ---
 
 Aquaponics là một hệ thống kết hợp giữa nuôi trồng thủy sản (aquaculture) và thủy canh (hydroponic). Trong một đơn vị aquaponic, nước trong bể nuôi thủy sản được tuần hoàn qua hệ thống lọc, hệ thống thủy canh sau đó trở về bể cá. Tại hệ thống lọc, chất thải từ cá được loại bỏ, đầu tiên hệ thống lọc cơ học (mechanical filter) sẽ giữ lại các chất thải lơ lửng, sau đó thông qua hệ thống lọc sinh học các chất thải hoà tan sẽ được xử lý. Hệ thống lọc sinh học cung cấp nơi để vi khuẩn chuyển hóa ammonia/ammonium (NH3/NH4+) (một hợp chất độc đối với cá) thành nitrate (NO3-), chất mà cây trồng có thể hấp thụ được. Quá trình này mang tên là quá trình khử nitrogen (nitrification).
