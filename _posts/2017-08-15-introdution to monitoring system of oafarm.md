@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Tạn mạn về hệ thống IoT của oa-farm"
+title:  "Tản mạn về hệ thống IoT của oa-farm"
 date:   2017-06-30 21:20:00
 categories: "IT"
 ---
 
-Oa-farm xin chia sẽ vài tản mạn về quá trình lập trình hệ thống IoT (Internet of things) nhằm thu thập các dữ liệu của nông trại, nhằm tối ưu việc quản lý nông trại.
+Oa-farm xin chia sẽ vài tản mạn về quá trình lập trình hệ thống IoT (Internet of things) nhằm thu thập các dữ liệu của, nhằm tối ưu việc quản lý nông trại.
 
 Nói ra thì dài dòng, đại khái là lúc đầu oa-farm chia hệ thống thành 3 phần để tiến hành thực hiện:
 
