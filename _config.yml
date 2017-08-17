@@ -1,11 +1,11 @@
 # Site settings
 title: Welcome to oa-farm blog
-motto: Your motto
+motto: Vì một nền nông nghiệp bền vững
 email: oafarm.vn@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   oa-farm blog là nơi chia sẽ kinh nghiệm về nông nghiệp sạch, nông nghiệp hữu cơ
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://oa-farm.github.io" # the base hostname & protocol for your site
 twitter_username: mth2610
 github_username:  mth2610
 
